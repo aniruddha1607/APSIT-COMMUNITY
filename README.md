@@ -1,7 +1,7 @@
 # Ecampus
 All in one flask webapp where we can have complete smart services for university related to cleanliness issues/complaint section, lost & found things, canteen orders with mail invoice generation, event notifications, etc.
 
-# I have generated this doc using github copilot, great time to live in!
+# I have generated this doc(not the project) using github copilot, great time to live in!
 
 # Running APSIT-COMMUNITY locally
 
