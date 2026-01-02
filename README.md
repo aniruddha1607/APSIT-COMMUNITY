@@ -1,6 +1,8 @@
 # Ecampus
 All in one flask webapp where we can have complete smart services for university related to cleanliness issues/complaint section, lost & found things, canteen orders with mail invoice generation, event notifications, etc.
 
+# I have generated this doc using github copilot, great time to live in!
+
 # Running APSIT-COMMUNITY locally
 
 This document describes the exact steps to get the project running locally on macOS (zsh). It includes cloning the repo, creating a virtual environment, installing the minimal requirements we use for development, running the Flask app, and inspecting the SQLite database.
